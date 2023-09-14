@@ -16,6 +16,7 @@ interface ScheduleProps {
 export default function Schedule({ user }: ScheduleProps) {
   return (
     <>
+      {/* TODO: Generate dynamic images for user https://github.com/vercel/satori */}
       <NextSeo title={`Agendar com ${user.name} | Ignite Call`} />
       <Container>
         <UserHeader>

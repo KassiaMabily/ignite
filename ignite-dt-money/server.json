@@ -1,0 +1,36 @@
+{
+    "transactions": [
+        {
+            "id": 1,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Salário",
+            "price": 7000,
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 2,
+            "description": "Desenvolvimento de site",
+            "type": "income",
+            "category": "Salário",
+            "price": 3000,
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 3,
+            "description": "Aluguel",
+            "type": "Outcome",
+            "category": "Moradia",
+            "price": 4000,
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        },
+        {
+            "id": 4,
+            "description": "Energia",
+            "type": "Outcome",
+            "category": "Moradia",
+            "price": 500,
+            "createdAt": "2022-07-29T19:36:44.505Z"
+        }
+    ]
+}
